@@ -16,7 +16,7 @@ function param(id: number) {
 param(10)
 
 // object declaration
-var employee: {
+let employee: {
     id: number
     name: string
 }
